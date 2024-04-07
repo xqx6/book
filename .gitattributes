@@ -1,0 +1,9 @@
+BaiduNetdiskDownload.z01 filter=lfs diff=lfs merge=lfs -text
+BaiduNetdiskDownload.z03 filter=lfs diff=lfs merge=lfs -text
+BaiduNetdiskDownload.zip filter=lfs diff=lfs merge=lfs -text
+BaiduNetdiskDownload.z06 filter=lfs diff=lfs merge=lfs -text
+BaiduNetdiskDownload.z07 filter=lfs diff=lfs merge=lfs -text
+BaiduNetdiskDownload.z08 filter=lfs diff=lfs merge=lfs -text
+BaiduNetdiskDownload.z02 filter=lfs diff=lfs merge=lfs -text
+BaiduNetdiskDownload.z04 filter=lfs diff=lfs merge=lfs -text
+BaiduNetdiskDownload.z05 filter=lfs diff=lfs merge=lfs -text
